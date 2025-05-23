@@ -3,7 +3,7 @@
 -  I’m interested in Web Development, Python, C++ with DSA, DBMS and AI and ML.
 -  I’m currently learning Full Stack Development 
 -  I’m looking to collaborate on beginner-friendly open source projects
--  How to reach me:  [Email](navyasai140@gmail.com)
+-  How to reach me: navyasai140@gmail.com
 -  Pronouns: She/Her
 
 
